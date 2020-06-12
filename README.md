@@ -2,7 +2,7 @@
 # 인공지능 사관학교 프리코스 과제 목차
 
 ## 1주차 과제 (2020.05.21)
-* [언어, 음성, 이미지, 자율주행의 분야 기술을 사용하는 4가지 제품 및 서비스](https://github.com/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment1.ipynb)
+* [1주차 과제](https://github.com/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment1.ipynb)
 
   * 언어 분야
   * 음성 분야
