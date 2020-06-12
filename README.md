@@ -2,7 +2,7 @@
 # 인공지능 사관학교 프리코스 과제 목차
 
 ## 1주차 과제 (2020.05.21)
-* [1주차 과제](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment1.ipynb)
+* [1주차 과제]()
 
   * 언어 분야
   * 음성 분야
