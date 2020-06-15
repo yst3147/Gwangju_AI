@@ -11,7 +11,7 @@
 
 -----------------------------------------------------------------------
 ## 2주차 과제 (2020.05.28)
-* [2주차 과제](https://github.com/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment2.ipynb)
+* [2주차 과제](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment2.ipynb)
 
    * 파이썬 문제
    * 인공지능 수학 문제
