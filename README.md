@@ -18,7 +18,7 @@
 
 -----------------------------------------------------------------------
 ## 3주차 과제 (2020.06.04)
-* [3주차 과제](https://github.com/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment3.ipynb)
+* [3주차 과제](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment3.ipynb)
 
    * 학습률 최적화
    * 군집 분석(병합 계층 군집) 구현 클론 코딩
