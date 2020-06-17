@@ -2,7 +2,7 @@
 # 인공지능 사관학교 프리코스 과제 목차
 
 ## 1주차 과제 (2020.05.21)
-* [1주차 과제 nbviewer](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment1.ipynb)
+* [1주차 과제](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment1.ipynb)
 
   * 언어 분야
   * 음성 분야
@@ -11,14 +11,14 @@
 
 -----------------------------------------------------------------------
 ## 2주차 과제 (2020.05.28)
-* [2주차 과제 nbviewer](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment2.ipynb)
+* [2주차 과제](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment2.ipynb)
 
    * 파이썬 문제
    * 인공지능 수학 문제
 
 -----------------------------------------------------------------------
 ## 3주차 과제 (2020.06.04)
-* [3주차 과제 nbviewer](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment3.ipynb)
+* [3주차 과제](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment3.ipynb)
 
    * 학습률 최적화
    * 군집 분석(병합 계층 군집) 구현 클론 코딩
@@ -26,7 +26,7 @@
 
 ------------------------------------------------------------------------
 ## 4주차 과제 (2020.06.11)
-* [4주차 과제 nbviewer](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment4.ipynb)
+* [4주차 과제](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/Assignment4.ipynb)
 
    * 용어 정리
    * 딥러닝 강의 클론 코딩
