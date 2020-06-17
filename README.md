@@ -26,7 +26,7 @@
 
 ------------------------------------------------------------------------
 ## 4주차 과제 (2020.06.11)
-* [4주차 과제 ](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment4.ipynb)
+* [4주차 과제 nbviewer](https://nbviewer.jupyter.org/github/yst3147/Gwangju_AI/blob/master/GwangjuAI_Assignment4.ipynb)
 
    * 용어 정리
    * 딥러닝 강의 클론 코딩
